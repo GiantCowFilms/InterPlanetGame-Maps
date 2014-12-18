@@ -84,7 +84,9 @@ Top to bottom, left to right.
 * 35
 * 45
 * 50
+
 <b>Use these sparingly:</b>
+
 * 60
 * 70
 * 75
@@ -122,7 +124,7 @@ Example Map
 		"x": "400",
 		"y": "400"
 	},
-	"planets"[
+	"planets": [
 		{
 			"radius":"50",
 			"color": "#64cf22",
