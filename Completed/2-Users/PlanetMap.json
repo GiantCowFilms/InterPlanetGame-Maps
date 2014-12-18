@@ -1,0 +1,162 @@
+﻿{
+	"name": "Planet Map One",
+	"size": {
+		"x": "1000",
+		"y": "880"
+	},
+	"planets": [{
+		"radius": "10",
+		"color": "#3fa6f3",
+		"x": "940",
+		"y": "40",
+		"startValue": "10"
+	},
+	{
+		"radius": "10",
+		"color": "#64cf22",
+		"x": "90",
+		"y": "120",
+		"startValue": "20"
+	},
+	{
+		"radius": "25",
+		"color": "#3fa6f3",
+		"x": "560",
+		"y": "150",
+		"startValue": "25"
+	},
+	{
+		"radius": "50",
+		"color": "#64cf22",
+		"x": "860",
+		"y": "150",
+		"startValue": "25"
+	},
+		{
+		"radius": "50",
+		"color": "#64cf22",
+		"x": "380",
+		"y": "200",
+		"startValue": "10"
+	},
+	{
+		"radius": "50",
+		"color": "#3fa6f3",
+		"x": "700",
+		"y": "250",
+		"startValue": "20"
+	},
+	{
+		"radius": "10",
+		"color": "#3fa6f3",
+		"x": "850",
+		"y": "280",
+		"startValue": "10"
+	},
+	{
+		"radius": "25",
+		"color": "#64cf22",
+		"x": "250",
+		"y": "300",
+		"startValue": "40"
+	},
+	{
+		"radius": "10",
+		"color": "#3fa6f3",
+		"x": "570",
+		"y": "350",
+		"startValue": "15"
+	},
+	{
+		"radius": "25",
+		"color": "#64cf22",
+		"x": "760",
+		"y": "370",
+		"startValue": "25"
+	},
+	{
+		"radius": "10",
+		"color": "#3fa6f3",
+		"x": "470",
+		"y": "420",
+		"startValue": "20"
+	},
+	{
+		"radius": "10",
+		"color": "#3fa6f3",
+		"x": "630",
+		"y": "420",
+		"startValue": "20"
+	},
+	{
+		"radius": "50",
+		"color": "#3fa6f3",
+		"x": "160",
+		"y": "440",
+		"startValue": "50"
+	},
+	{
+		"radius": "50",
+		"color": "#64cf22",
+		"x": "900",
+		"y": "500",
+		"startValue": "50"
+	},
+	{
+		"radius": "50",
+		"color": "#3fa6f3",
+		"x": "320",
+		"y": "530",
+		"startValue": "50"
+	},
+	{
+		"radius": "50",
+		"color": "#64cf22",
+		"x": "560",
+		"y": "580",
+		"startValue": "10"
+	},
+	{
+		"radius": "25",
+		"color": "#3fa6f3",
+		"x": "708",
+		"y": "610",
+		"startValue": "35"
+	},
+	{
+		"radius": "10",
+		"color": "#64cf22",
+		"x": "170",
+		"y": "650",
+		"startValue": "45"
+	},
+	{
+		"radius": "5",
+		"color": "#64cf22",
+		"x": "400",
+		"y": "730",
+		"startValue": "55"
+	},
+	{
+		"radius": "100",
+		"color": "#64cf22",
+		"x": "870",
+		"y": "750",
+		"startValue": "100"
+	},
+	{
+		"radius": "25",
+		"color": "#3fa6f3",
+		"x": "600",
+		"y": "770",
+		"startValue": "50"
+	},
+	{
+		"radius": "50",
+		"color": "#3fa6f3",
+		"x": "170",
+		"y": "770",
+		"startValue": "50"
+	}
+	]
+}
