@@ -57,7 +57,7 @@ Color Palette:
 
 Name | Hex |Order
 -----| --- |-----
-Green | #64cf22 | 1
+Green | #8ed16c | 1
 Blue | #3fa6f3 | 2
 Red | #e25f5f | 3
 Magenta | #ef6ab8 | 4
