@@ -108,11 +108,6 @@ Top to bottom, left to right.
 * 150
 * 175
 * 200
-* 225
-* 250
-* 275
-* 300
-* 350
 * No Bigger Planets, It's a waste of space (Pun intended).
 
 Example Map
