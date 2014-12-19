@@ -1,4 +1,4 @@
-InterPlanetGame: Map Standard
+InterPlanetGame: Map Standard [v 0.1]
 =====
 File Type
 ----
@@ -61,9 +61,11 @@ Green | #8ed16c | 1
 Blue | #3fa6f3 | 2
 Red | #e25f5f | 3
 Magenta | #ef6ab8 | 4
+Neutral Grey | #bbbbbb | 0
 
 <h4>Palette Rule(s)</h4>
-In a map, use the colors in order. There should never be Magenta in a 3 player map for example
+In a map, use the colors in order. There should never be Magenta in a 3 player map for example. Neutral grey planets don't increaese in value until they are taken over. They are "neutral" and aren't owned by a player in the start of the game.
+
 
 Guide Lines:
 ========================
