@@ -46,7 +46,7 @@ Type | Values
 ```JSON
 {
 		"radius": "10",
-		"color": "#64cf22",
+		"color": "#8ed16c",
 		"x": "20",
 		"y": "20",
 		"startValue": "10"
@@ -122,7 +122,7 @@ Example Map
 	"planets": [
 		{
 			"radius":"50",
-			"color": "#64cf22",
+			"color": "#8ed16c",
 			"x": "55",
 			"y": "55",
 			"startValue": "20"
