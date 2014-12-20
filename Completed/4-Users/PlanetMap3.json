@@ -1,0 +1,344 @@
+﻿{
+	"name": "Planet Map Three",
+	"size": {
+		"x": "1500",
+		"y": "900"
+	},
+	"planets": [{
+		"radius": "20",
+		"color": "#8ed16c",
+		"x": "60",
+		"y": "45",
+		"startValue": "10"
+	},
+	{
+		"radius": "20",
+		"color": "#3fa6f3",
+		"x": "1440",
+		"y": "45",
+		"startValue": "10"
+	},
+	{
+		"radius": "40",
+		"color": "#8ed16c",
+		"x": "450",
+		"y": "75",
+		"startValue": "10"
+	},
+	{
+		"radius": "40",
+		"color": "#3fa6f3",
+		"x": "1050",
+		"y": "75",
+		"startValue": "10"
+	},
+	{
+		"radius": "70",
+		"color": "#3fa6f3",
+		"x": "750",
+		"y": "105",
+		"startValue": "10"
+	},
+	{
+		"radius": "10",
+		"color": "#8ed16c",
+		"x": "340",
+		"y": "115",
+		"startValue": "10"
+	},
+	{
+		"radius": "10",
+		"color": "#3fa6f3",
+		"x": "1160",
+		"y": "115",
+		"startValue": "10"
+	},
+	{
+		"radius": "75",
+		"color": "#8ed16c",
+		"x": "190",
+		"y": "155",
+		"startValue": "10"
+	},
+	{
+		"radius": "20",
+		"color": "#8ed16c",
+		"x": "550",
+		"y": "155",
+		"startValue": "10"
+	},
+	{
+		"radius": "20",
+		"color": "#3fa6f3",
+		"x": "950",
+		"y": "155",
+		"startValue": "10"
+	},
+	{
+		"radius": "75",
+		"color": "#3fa6f3",
+		"x": "1310",
+		"y": "155",
+		"startValue": "10"
+	},
+	{
+		"radius": "10",
+		"color": "#8ed16c",
+		"x": "320",
+		"y": "205",
+		"startValue": "10"
+	},
+	{
+		"radius": "10",
+		"color": "#3fa6f3",
+		"x": "1180",
+		"y": "204",
+		"startValue": "10"
+	},
+	{
+		"radius": "40",
+		"color": "#8ed16c",
+		"x": "430",
+		"y": "215",
+		"startValue": "10"
+	},
+	{
+		"radius": "40",
+		"color": "#3fa6f3",
+		"x": "1070",
+		"y": "215",
+		"startValue": "10"
+	},
+	{
+		"radius": "10",
+		"color": "#8ed16c",
+		"x": "240",
+		"y": "265",
+		"startValue": "10"
+	},
+	{
+		"radius": "10",
+		"color": "#3fa6f3",
+		"x": "1260",
+		"y": "265",
+		"startValue": "10"
+	},
+	{
+		"radius": "10",
+		"color": "#8ed16c",
+		"x": "150",
+		"y": "285",
+		"startValue": "10"
+	},
+	{
+		"radius": "10",
+		"color": "#3fa6f3",
+		"x": "1350",
+		"y": "285",
+		"startValue": "10"
+	},
+	{
+		"radius": "40",
+		"color": "#8ed16c",
+		"x": "340",
+		"y": "315",
+		"startValue": "10"
+	},
+	{
+		"radius": "40",
+		"color": "#3fa6f3",
+		"x": "1160",
+		"y": "315",
+		"startValue": "10"
+	},
+	{
+		"radius": "40",
+		"color": "#8ed16c",
+		"x": "210",
+		"y": "385",
+		"startValue": "10"
+	},
+	{
+		"radius": "40",
+		"color": "#3fa6f3",
+		"x": "1290",
+		"y": "385",
+		"startValue": "10"
+	},
+	{
+		"radius": "40",
+		"color": "#8ed16c",
+		"x": "70",
+		"y": "395",
+		"startValue": "10"
+	},
+	{
+		"radius": "40",
+		"color": "#3fa6f3",
+		"x": "1430",
+		"y": "395",
+		"startValue": "10"
+	},
+	{
+		"radius": "75",
+		"color": "#8ed16c",
+		"x": "430",
+		"y": "455",
+		"startValue": "10"
+	},
+	{
+		"radius": "175",
+		"color": "#bbbbbb",
+		"x": "750",
+		"y": "455",
+		"startValue": "100"
+	},
+	{
+		"radius": "75",
+		"color": "#e25f5f",
+		"x": "1050",
+		"y": "455",
+		"startValue": "10"
+	},
+	{
+		"radius": "40",
+		"color": "#ef6ab8",
+		"x": "70",
+		"y": "505",
+		"startValue": "10"
+	},
+	{
+		"radius": "40",
+		"color": "#e25f5f",
+		"x": "1430",
+		"y": "505",
+		"startValue": "10"
+	},
+	{
+		"radius": "40",
+		"color": "#ef6ab8",
+		"x": "210",
+		"y": "515",
+		"startValue": "10"
+	},
+	{
+		"radius": "40",
+		"color": "#e25f5f",
+		"x": "1290",
+		"y": "515",
+		"startValue": "10"
+	},
+	{
+		"radius": "40",
+		"color": "#ef6ab8",
+		"x": "340",
+		"y": "585",
+		"startValue": "10"
+	},
+	{
+		"radius": "40",
+		"color": "#e25f5f",
+		"x": "1160",
+		"y": "585",
+		"startValue": "10"
+	},
+	{
+		"radius": "10",
+		"color": "#ef6ab8",
+		"x": "150",
+		"y": "615",
+		"startValue": "10"
+	},
+	{
+		"radius": "10",
+		"color": "#e25f5f",
+		"x": "1350",
+		"y": "615",
+		"startValue": "10"
+	},
+	{
+		"radius": "10",
+		"color": "#ef6ab8",
+		"x": "240",
+		"y": "635",
+		"startValue": "10"
+	},
+	{
+		"radius": "10",
+		"color": "#e25f5f",
+		"x": "1260",
+		"y": "635",
+		"startValue": "10"
+	},
+	{
+		"radius": "40",
+		"color": "#ef6ab8",
+		"x": "430",
+		"y": "685",
+		"startValue": "10"
+	},
+	{
+		"radius": "40",
+		"color": "#e25f5f",
+		"x": "1070",
+		"y": "685",
+		"startValue": "10"
+	},
+	{
+		"radius": "10",
+		"color": "#ef6ab8",
+		"x": "320",
+		"y": "695",
+		"startValue": "10"
+	},
+	{
+		"radius": "10",
+		"color": "#e25f5f",
+		"x": "1180",
+		"y": "695",
+		"startValue": "10"
+	},	
+	{
+		"radius": "75",
+		"color": "#ef6ab8",
+		"x": "190",
+		"y": "745",
+		"startValue": "10"
+	},
+	{
+		"radius": "20",
+		"color": "#ef6ab8",
+		"x": "520",
+		"y": "745",
+		"startValue": "10"
+	},
+	{
+		"radius": "20",
+		"color": "#e25f5f",
+		"x": "980",
+		"y": "745",
+		"startValue": "10"
+	},	
+	{
+		"radius": "75",
+		"color": "#e25f5f",
+		"x": "1310",
+		"y": "745",
+		"startValue": "10"
+	},
+	{
+		"radius": "40",
+		"color": "#ef6ab8",
+		"x": "450",
+		"y": "825",
+		"startValue": "10"
+	},
+	{
+		"radius": "40",
+		"color": "#e25f5f",
+		"x": "1050",
+		"y": "825",
+		"startValue": "10"
+	}
+	]
+}
