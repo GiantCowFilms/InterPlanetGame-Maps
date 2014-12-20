@@ -137,6 +137,13 @@ Example Map
 			"startValue": "20"
 		},
 		{
+			"radius":"75",
+			"color": "#bbbbbb",
+			"x": "200",
+			"y": "200",
+			"startValue": "20"
+		},
+		{
 			"radius":"50",
 			"color": "#e25f5f",
 			"x": "55",
