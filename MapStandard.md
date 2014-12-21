@@ -57,7 +57,7 @@ Type | Values
 ```
 <b>JSON Syntax Notes</b>
 
-The elemsnts must by in that order in the planet object, the numbers have to be strings (surrounded by double quotes).
+The elemsnts must by in that order in the planet object, the numbers have to be strings (surrounded by double quotes). The cordinates are distance from the upper right hand corner.
 
 Color Palette:
 -------------
