@@ -1,0 +1,324 @@
+﻿{
+    "planets": [
+        {
+            "x": "900",
+            "radius": "82",
+            "startValue": "75",
+            "color": "#3fa6f3",
+            "y": "900"
+        },
+        {
+            "x": "842",
+            "radius": "50",
+            "startValue": "45",
+            "color": "#bbbbbb",
+            "y": "520"
+        },
+        {
+            "x": "908",
+            "radius": "40",
+            "startValue": "10",
+            "color": "#bbbbbb",
+            "y": "700"
+        },
+        {
+            "x": "742",
+            "radius": "50",
+            "startValue": "45",
+            "color": "#bbbbbb",
+            "y": "820"
+        },
+        {
+            "x": "768",
+            "radius": "40",
+            "startValue": "60",
+            "color": "#e25f5f",
+            "y": "690"
+        },
+        {
+            "x": "668",
+            "radius": "40",
+            "startValue": "50",
+            "color": "#bbbbbb",
+            "y": "590"
+        },
+        {
+            "x": "727",
+            "radius": "20",
+            "startValue": "5",
+            "color": "#bbbbbb",
+            "y": "950"
+        },
+        {
+            "x": "612",
+            "radius": "50",
+            "startValue": "45",
+            "color": "#bbbbbb",
+            "y": "900"
+        },
+        {
+            "x": "930",
+            "radius": "15",
+            "startValue": "5",
+            "color": "#bbbbbb",
+            "y": "503"
+        },
+        {
+            "x": "627",
+            "radius": "20",
+            "startValue": "5",
+            "color": "#bbbbbb",
+            "y": "750"
+        },
+        {
+            "x": "532",
+            "radius": "50",
+            "startValue": "45",
+            "color": "#bbbbbb",
+            "y": "690"
+        },
+        {
+            "x": "690",
+            "radius": "50",
+            "startValue": "45",
+            "color": "#bbbbbb",
+            "y": "468"
+        },
+        {
+            "x": "750",
+            "radius": "20",
+            "startValue": "5",
+            "color": "#bbbbbb",
+            "y": "373"
+        },
+        {
+            "x": "503",
+            "radius": "15",
+            "startValue": "5",
+            "color": "#bbbbbb",
+            "y": "70"
+        },
+        {
+            "x": "900",
+            "radius": "50",
+            "startValue": "45",
+            "color": "#bbbbbb",
+            "y": "388"
+        },
+        {
+            "x": "950",
+            "radius": "20",
+            "startValue": "5",
+            "color": "#bbbbbb",
+            "y": "273"
+        },
+        {
+            "x": "590",
+            "radius": "40",
+            "startValue": "50",
+            "color": "#bbbbbb",
+            "y": "332"
+        },
+        {
+            "x": "690",
+            "radius": "40",
+            "startValue": "60",
+            "color": "#3fa6f3",
+            "y": "232"
+        },
+        {
+            "x": "820",
+            "radius": "50",
+            "startValue": "45",
+            "color": "#bbbbbb",
+            "y": "258"
+        },
+        {
+            "x": "700",
+            "radius": "40",
+            "startValue": "10",
+            "color": "#bbbbbb",
+            "y": "92"
+        },
+        {
+            "x": "520",
+            "radius": "50",
+            "startValue": "45",
+            "color": "#bbbbbb",
+            "y": "158"
+        },
+        {
+            "x": "900",
+            "radius": "82",
+            "startValue": "75",
+            "color": "#e25f5f",
+            "y": "100"
+        },
+        {
+            "x": "100",
+            "radius": "82",
+            "startValue": "75",
+            "color": "#ef6ab8",
+            "y": "100"
+        },
+        {
+            "x": "158",
+            "radius": "50",
+            "startValue": "45",
+            "color": "#bbbbbb",
+            "y": "480"
+        },
+        {
+            "x": "92",
+            "radius": "40",
+            "startValue": "10",
+            "color": "#bbbbbb",
+            "y": "300"
+        },
+        {
+            "x": "258",
+            "radius": "50",
+            "startValue": "45",
+            "color": "#bbbbbb",
+            "y": "180"
+        },
+        {
+            "x": "232",
+            "radius": "40",
+            "startValue": "60",
+            "color": "#8ed16c",
+            "y": "310"
+        },
+        {
+            "x": "332",
+            "radius": "40",
+            "startValue": "50",
+            "color": "#bbbbbb",
+            "y": "410"
+        },
+        {
+            "x": "273",
+            "radius": "20",
+            "startValue": "5",
+            "color": "#bbbbbb",
+            "y": "50"
+        },
+        {
+            "x": "388",
+            "radius": "50",
+            "startValue": "45",
+            "color": "#bbbbbb",
+            "y": "100"
+        },
+        {
+            "x": "70",
+            "radius": "15",
+            "startValue": "5",
+            "color": "#bbbbbb",
+            "y": "497"
+        },
+        {
+            "x": "373",
+            "radius": "20",
+            "startValue": "5",
+            "color": "#bbbbbb",
+            "y": "250"
+        },
+        {
+            "x": "468",
+            "radius": "50",
+            "startValue": "45",
+            "color": "#bbbbbb",
+            "y": "310"
+        },
+        {
+            "x": "310",
+            "radius": "50",
+            "startValue": "45",
+            "color": "#bbbbbb",
+            "y": "532"
+        },
+        {
+            "x": "250",
+            "radius": "20",
+            "startValue": "5",
+            "color": "#bbbbbb",
+            "y": "627"
+        },
+        {
+            "x": "497",
+            "radius": "15",
+            "startValue": "5",
+            "color": "#bbbbbb",
+            "y": "930"
+        },
+        {
+            "x": "100",
+            "radius": "50",
+            "startValue": "45",
+            "color": "#bbbbbb",
+            "y": "612"
+        },
+        {
+            "x": "50",
+            "radius": "20",
+            "startValue": "5",
+            "color": "#bbbbbb",
+            "y": "727"
+        },
+        {
+            "x": "410",
+            "radius": "40",
+            "startValue": "50",
+            "color": "#bbbbbb",
+            "y": "668"
+        },
+        {
+            "x": "310",
+            "radius": "40",
+            "startValue": "60",
+            "color": "#ef6ab8",
+            "y": "768"
+        },
+        {
+            "x": "180",
+            "radius": "50",
+            "startValue": "45",
+            "color": "#bbbbbb",
+            "y": "742"
+        },
+        {
+            "x": "300",
+            "radius": "40",
+            "startValue": "10",
+            "color": "#bbbbbb",
+            "y": "908"
+        },
+        {
+            "x": "500",
+            "radius": "100",
+            "startValue": "75",
+            "color": "#bbbbbb",
+            "y": "500"
+        },
+        {
+            "x": "480",
+            "radius": "50",
+            "startValue": "45",
+            "color": "#bbbbbb",
+            "y": "842"
+        },
+        {
+            "x": "100",
+            "radius": "82",
+            "startValue": "75",
+            "color": "#8ed16c",
+            "y": "900"
+        }
+    ],
+    "size": {
+        "y": "1000",
+        "x": "1000"
+    },
+    "name": "Four Corners"
+}
