@@ -1,0 +1,296 @@
+{
+    'name': 'Snow Man',
+    'size': {
+        'x': '1500',
+        'y': '900'
+    },
+    'planets': [
+        {
+            'color': '#bbbbbb',
+            'startValue': '5',
+            'x': '575',
+            'radius': '20',
+            'y': '47'
+        },
+        {
+            'color': '#bbbbbb',
+            'startValue': '5',
+            'x': '925',
+            'radius': '20',
+            'y': '47'
+        },
+        {
+            'color': '#8ed16c',
+            'startValue': '125',
+            'x': '164',
+            'radius': '20',
+            'y': '142'
+        },
+        {
+            'color': '#bbbbbb',
+            'startValue': '5',
+            'x': '289',
+            'radius': '20',
+            'y': '247'
+        },
+        {
+            'color': '#bbbbbb',
+            'startValue': '5',
+            'x': '325',
+            'radius': '20',
+            'y': '47'
+        },
+        {
+            'color': '#bbbbbb',
+            'startValue': '5',
+            'x': '483',
+            'radius': '20',
+            'y': '149'
+        },
+        {
+            'color': '#bbbbbb',
+            'startValue': '5',
+            'x': '480',
+            'radius': '20',
+            'y': '405'
+        },
+        {
+            'color': '#bbbbbb',
+            'startValue': '5',
+            'x': '312',
+            'radius': '20',
+            'y': '467'
+        },
+        {
+            'color': '#bbbbbb',
+            'startValue': '5',
+            'x': '539',
+            'radius': '20',
+            'y': '576'
+        },
+        {
+            'color': '#bbbbbb',
+            'startValue': '5',
+            'x': '496',
+            'radius': '20',
+            'y': '638'
+        },
+        {
+            'color': '#bbbbbb',
+            'startValue': '5',
+            'x': '361',
+            'radius': '20',
+            'y': '809'
+        },
+        {
+            'color': '#bbbbbb',
+            'startValue': '5',
+            'x': '306',
+            'radius': '20',
+            'y': '674'
+        },
+        {
+            'color': '#bbbbbb',
+            'startValue': '5',
+            'x': '171',
+            'radius': '20',
+            'y': '362'
+        },
+        {
+            'color': '#bbbbbb',
+            'startValue': '5',
+            'x': '329',
+            'radius': '20',
+            'y': '333'
+        },
+        {
+            'color': '#bbbbbb',
+            'startValue': '5',
+            'x': '115',
+            'radius': '20',
+            'y': '540'
+        },
+        {
+            'color': '#bbbbbb',
+            'startValue': '5',
+            'x': '161',
+            'radius': '20',
+            'y': '678'
+        },
+        {
+            'color': '#bbbbbb',
+            'startValue': '5',
+            'x': '532',
+            'radius': '20',
+            'y': '247'
+        },
+        {
+            'color': '#bbbbbb',
+            'startValue': '5',
+            'x': '338',
+            'radius': '20',
+            'y': '160'
+        },
+        {
+            'color': '#ef6ab8',
+            'startValue': '125',
+            'x': '237',
+            'radius': '20',
+            'y': '829'
+        },
+        {
+            'color': '#bbbbbb',
+            'startValue': '5',
+            'x': '575',
+            'radius': '20',
+            'y': '816'
+        },
+        {
+            'color': '#bbbbbb',
+            'startValue': '5',
+            'x': '925',
+            'radius': '20',
+            'y': '816'
+        },
+        {
+            'color': '#e25f5f',
+            'startValue': '125',
+            'x': '1263',
+            'radius': '20',
+            'y': '829'
+        },
+        {
+            'color': '#bbbbbb',
+            'startValue': '5',
+            'x': '1162',
+            'radius': '20',
+            'y': '160'
+        },
+        {
+            'color': '#bbbbbb',
+            'startValue': '5',
+            'x': '968',
+            'radius': '20',
+            'y': '247'
+        },
+        {
+            'color': '#bbbbbb',
+            'startValue': '5',
+            'x': '1339',
+            'radius': '20',
+            'y': '678'
+        },
+        {
+            'color': '#bbbbbb',
+            'startValue': '5',
+            'x': '1385',
+            'radius': '20',
+            'y': '540'
+        },
+        {
+            'color': '#bbbbbb',
+            'startValue': '5',
+            'x': '1171',
+            'radius': '20',
+            'y': '333'
+        },
+        {
+            'color': '#bbbbbb',
+            'startValue': '5',
+            'x': '1329',
+            'radius': '20',
+            'y': '362'
+        },
+        {
+            'color': '#bbbbbb',
+            'startValue': '5',
+            'x': '1194',
+            'radius': '20',
+            'y': '674'
+        },
+        {
+            'color': '#bbbbbb',
+            'startValue': '5',
+            'x': '1139',
+            'radius': '20',
+            'y': '809'
+        },
+        {
+            'color': '#bbbbbb',
+            'startValue': '5',
+            'x': '1004',
+            'radius': '20',
+            'y': '638'
+        },
+        {
+            'color': '#bbbbbb',
+            'startValue': '5',
+            'x': '961',
+            'radius': '20',
+            'y': '576'
+        },
+        {
+            'color': '#bbbbbb',
+            'startValue': '5',
+            'x': '1188',
+            'radius': '20',
+            'y': '467'
+        },
+        {
+            'color': '#bbbbbb',
+            'startValue': '5',
+            'x': '1020',
+            'radius': '20',
+            'y': '405'
+        },
+        {
+            'color': '#bbbbbb',
+            'startValue': '5',
+            'x': '1017',
+            'radius': '20',
+            'y': '149'
+        },
+        {
+            'color': '#bbbbbb',
+            'startValue': '5',
+            'x': '1175',
+            'radius': '20',
+            'y': '47'
+        },
+        {
+            'color': '#bbbbbb',
+            'startValue': '5',
+            'x': '1211',
+            'radius': '20',
+            'y': '247'
+        },
+        {
+            'color': '#3fa6f3',
+            'startValue': '125',
+            'x': '1336',
+            'radius': '20',
+            'y': '142'
+        },
+        {
+            'color': '#bbbbbb',
+            'startValue': '125',
+            'x': '750',
+            'radius': '100',
+            'y': '197'
+        },
+        {
+            'color': '#bbbbbb',
+            'startValue': '125',
+            'x': '750',
+            'radius': '125',
+            'y': '422'
+        },
+        {
+            'color': '#bbbbbb',
+            'startValue': '125',
+            'x': '750',
+            'radius': '150',
+            'y': '697'
+        }
+    ]
+}
