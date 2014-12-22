@@ -1,0 +1,212 @@
+{
+    "planets": [
+        {
+            "color": "#bbbbbb",
+            "y": "680",
+            "x": "790",
+            "radius": "40",
+            "startValue": "5"
+        },
+        {
+            "color": "#bbbbbb",
+            "y": "680",
+            "x": "710",
+            "radius": "40",
+            "startValue": "5"
+        },
+        {
+            "color": "#bbbbbb",
+            "y": "650",
+            "x": "870",
+            "radius": "40",
+            "startValue": "5"
+        },
+        {
+            "color": "#bbbbbb",
+            "y": "650",
+            "x": "630",
+            "radius": "40",
+            "startValue": "5"
+        },
+        {
+            "color": "#bbbbbb",
+            "y": "600",
+            "x": "950",
+            "radius": "40",
+            "startValue": "5"
+        },
+        {
+            "color": "#bbbbbb",
+            "y": "600",
+            "x": "550",
+            "radius": "40",
+            "startValue": "5"
+        },
+        {
+            "color": "#bbbbbb",
+            "y": "450",
+            "x": "750",
+            "radius": "40",
+            "startValue": "5"
+        },
+        {
+            "color": "#bbbbbb",
+            "y": "250",
+            "x": "950",
+            "radius": "40",
+            "startValue": "5"
+        },
+        {
+            "color": "#bbbbbb",
+            "y": "250",
+            "x": "550",
+            "radius": "40",
+            "startValue": "5"
+        },
+        {
+            "color": "#3fa6f3",
+            "y": "450",
+            "x": "1450",
+            "radius": "15",
+            "startValue": "125"
+        },
+        {
+            "color": "#8ed16c",
+            "y": "450",
+            "x": "50",
+            "radius": "15",
+            "startValue": "125"
+        },
+        {
+            "color": "#bbbbbb",
+            "y": "325",
+            "x": "1200",
+            "radius": "40",
+            "startValue": "5"
+        },
+        {
+            "color": "#bbbbbb",
+            "y": "575",
+            "x": "1200",
+            "radius": "40",
+            "startValue": "5"
+        },
+        {
+            "color": "#bbbbbb",
+            "y": "575",
+            "x": "1400",
+            "radius": "40",
+            "startValue": "5"
+        },
+        {
+            "color": "#bbbbbb",
+            "y": "325",
+            "x": "1400",
+            "radius": "40",
+            "startValue": "5"
+        },
+        {
+            "color": "#bbbbbb",
+            "y": "325",
+            "x": "100",
+            "radius": "40",
+            "startValue": "5"
+        },
+        {
+            "color": "#bbbbbb",
+            "y": "575",
+            "x": "100",
+            "radius": "40",
+            "startValue": "5"
+        },
+        {
+            "color": "#bbbbbb",
+            "y": "325",
+            "x": "300",
+            "radius": "40",
+            "startValue": "5"
+        },
+        {
+            "color": "#bbbbbb",
+            "y": "575",
+            "x": "300",
+            "radius": "40",
+            "startValue": "5"
+        },
+        {
+            "color": "#bbbbbb",
+            "y": "325",
+            "x": "1300",
+            "radius": "40",
+            "startValue": "5"
+        },
+        {
+            "color": "#bbbbbb",
+            "y": "575",
+            "x": "1300",
+            "radius": "40",
+            "startValue": "5"
+        },
+        {
+            "color": "#bbbbbb",
+            "y": "575",
+            "x": "200",
+            "radius": "40",
+            "startValue": "5"
+        },
+        {
+            "color": "#bbbbbb",
+            "y": "325",
+            "x": "200",
+            "radius": "40",
+            "startValue": "5"
+        },
+        {
+            "color": "#bbbbbb",
+            "y": "700",
+            "x": "1300",
+            "radius": "75",
+            "startValue": "20"
+        },
+        {
+            "color": "#bbbbbb",
+            "y": "700",
+            "x": "200",
+            "radius": "75",
+            "startValue": "20"
+        },
+        {
+            "color": "#bbbbbb",
+            "y": "200",
+            "x": "200",
+            "radius": "75",
+            "startValue": "20"
+        },
+        {
+            "color": "#bbbbbb",
+            "y": "200",
+            "x": "1300",
+            "radius": "75",
+            "startValue": "20"
+        },
+        {
+            "color": "#bbbbbb",
+            "y": "450",
+            "x": "1300",
+            "radius": "75",
+            "startValue": "20"
+        },
+        {
+            "color": "#bbbbbb",
+            "y": "450",
+            "x": "200",
+            "radius": "75",
+            "startValue": "20"
+        }
+    ],
+    "name": "Smile",
+    "size": {
+        "x": "1500",
+        "y": "900"
+    }
+}
