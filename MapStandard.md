@@ -3,6 +3,9 @@ InterPlanetGame: Map Standard [v 0.1]
 File Type
 ----
 The maps are stored as a JSON file.
+
+<b/>No spaces<b/> in the file name 
+
 Required Elements
 ---
 * Name
@@ -52,6 +55,10 @@ Type | Values
 		"startValue": "10"
 },
 ```
+<b>JSON Syntax Notes</b>
+
+The elemsnts must by in that order in the planet object, the numbers have to be strings (surrounded by double quotes). The cordinates are distance from the upper right hand corner.
+
 Color Palette:
 -------------
 
