@@ -1,0 +1,149 @@
+{
+    "planets": [
+        {
+            "x": "1400",
+            "color": "#8ed16c",
+            "radius": "10",
+            "y": "100",
+            "startValue": "125"
+        },
+        {
+            "x": "100",
+            "color": "#3fa6f3",
+            "radius": "10",
+            "y": "800",
+            "startValue": "125"
+        },
+        {
+            "x": "100",
+            "color": "#3fa6f3",
+            "radius": "10",
+            "y": "100",
+            "startValue": "125"
+        },
+        {
+            "x": "1400",
+            "color": "#8ed16c",
+            "radius": "10",
+            "y": "800",
+            "startValue": "125"
+        },
+        {
+            "x": "765",
+            "color": "#3fa6f3",
+            "radius": "75",
+            "y": "421",
+            "startValue": "5"
+        },
+        {
+            "x": "768",
+            "color": "#bbbbbb",
+            "radius": "125",
+            "y": "415",
+            "startValue": "5"
+        },
+        {
+            "x": "594",
+            "color": "#e25f5f",
+            "radius": "40",
+            "y": "465",
+            "startValue": "5"
+        },
+        {
+            "x": "797",
+            "color": "#e25f5f",
+            "radius": "40",
+            "y": "587",
+            "startValue": "5"
+        },
+        {
+            "x": "755",
+            "color": "#e25f5f",
+            "radius": "40",
+            "y": "619",
+            "startValue": "5"
+        },
+        {
+            "x": "725",
+            "color": "#e25f5f",
+            "radius": "40",
+            "y": "649",
+            "startValue": "5"
+        },
+        {
+            "x": "693",
+            "color": "#e25f5f",
+            "radius": "40",
+            "y": "672",
+            "startValue": "5"
+        },
+        {
+            "x": "626",
+            "color": "#e25f5f",
+            "radius": "40",
+            "y": "562",
+            "startValue": "5"
+        },
+        {
+            "x": "545",
+            "color": "#e25f5f",
+            "radius": "40",
+            "y": "433",
+            "startValue": "5"
+        },
+        {
+            "x": "575",
+            "color": "#e25f5f",
+            "radius": "40",
+            "y": "562",
+            "startValue": "5"
+        },
+        {
+            "x": "529",
+            "color": "#e25f5f",
+            "radius": "40",
+            "y": "560",
+            "startValue": "5"
+        },
+        {
+            "x": "476",
+            "color": "#e25f5f",
+            "radius": "40",
+            "y": "556",
+            "startValue": "5"
+        },
+        {
+            "x": "408",
+            "color": "#e25f5f",
+            "radius": "40",
+            "y": "328",
+            "startValue": "5"
+        },
+        {
+            "x": "451",
+            "color": "#e25f5f",
+            "radius": "40",
+            "y": "362",
+            "startValue": "5"
+        },
+        {
+            "x": "497",
+            "color": "#e25f5f",
+            "radius": "40",
+            "y": "405",
+            "startValue": "5"
+        },
+        {
+            "x": "762",
+            "color": "#e25f5f",
+            "radius": "200",
+            "y": "411",
+            "startValue": "5"
+        }
+    ],
+    "name": "Blender",
+    "size": {
+        "x": "1500",
+        "y": "1500"
+    }
+}
