@@ -1,0 +1,534 @@
+{
+    "size": {
+        "y": "900",
+        "x": "900"
+    },
+    "name": "Star Wars",
+    "planets": [
+        {
+            "startValue": "5",
+            "radius": "10",
+            "x": "359",
+            "y": "327",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "5",
+            "radius": "10",
+            "x": "304",
+            "y": "499",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "5",
+            "radius": "10",
+            "x": "452",
+            "y": "604",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "5",
+            "radius": "10",
+            "x": "596",
+            "y": "496",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "5",
+            "radius": "10",
+            "x": "539",
+            "y": "325",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "10",
+            "radius": "15",
+            "x": "317",
+            "y": "407",
+            "color": "#8ed16c"
+        },
+        {
+            "startValue": "20",
+            "radius": "20",
+            "x": "320",
+            "y": "366",
+            "color": "#8ed16c"
+        },
+        {
+            "startValue": "20",
+            "radius": "20",
+            "x": "295",
+            "y": "442",
+            "color": "#8ed16c"
+        },
+        {
+            "startValue": "10",
+            "radius": "15",
+            "x": "329",
+            "y": "323",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "10",
+            "radius": "15",
+            "x": "278",
+            "y": "482",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "20",
+            "radius": "20",
+            "x": "250",
+            "y": "452",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "20",
+            "radius": "20",
+            "x": "289",
+            "y": "330",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "10",
+            "radius": "15",
+            "x": "216",
+            "y": "425",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "10",
+            "radius": "15",
+            "x": "246",
+            "y": "333",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "5",
+            "radius": "10",
+            "x": "142",
+            "y": "350",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "20",
+            "radius": "20",
+            "x": "210",
+            "y": "349",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "20",
+            "radius": "20",
+            "x": "196",
+            "y": "391",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "75",
+            "radius": "40",
+            "x": "260",
+            "y": "388",
+            "color": "#8ed16c"
+        },
+        {
+            "startValue": "10",
+            "radius": "15",
+            "x": "170",
+            "y": "359",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "10",
+            "radius": "15",
+            "x": "277",
+            "y": "688",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "75",
+            "radius": "40",
+            "x": "332",
+            "y": "612",
+            "color": "#ef6ab8"
+        },
+        {
+            "startValue": "20",
+            "radius": "20",
+            "x": "315",
+            "y": "673",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "20",
+            "radius": "20",
+            "x": "279",
+            "y": "647",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "5",
+            "radius": "10",
+            "x": "260",
+            "y": "712",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "10",
+            "radius": "15",
+            "x": "276",
+            "y": "608",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "10",
+            "radius": "15",
+            "x": "354",
+            "y": "664",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "20",
+            "radius": "20",
+            "x": "287",
+            "y": "566",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "20",
+            "radius": "20",
+            "x": "390",
+            "y": "641",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "10",
+            "radius": "15",
+            "x": "427",
+            "y": "624",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "10",
+            "radius": "15",
+            "x": "292",
+            "y": "525",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "20",
+            "radius": "20",
+            "x": "394",
+            "y": "595",
+            "color": "#ef6ab8"
+        },
+        {
+            "startValue": "20",
+            "radius": "20",
+            "x": "329",
+            "y": "548",
+            "color": "#ef6ab8"
+        },
+        {
+            "startValue": "10",
+            "radius": "15",
+            "x": "368",
+            "y": "563",
+            "color": "#ef6ab8"
+        },
+        {
+            "startValue": "10",
+            "radius": "15",
+            "x": "532",
+            "y": "563",
+            "color": "#de8457"
+        },
+        {
+            "startValue": "20",
+            "radius": "20",
+            "x": "506",
+            "y": "595",
+            "color": "#de8457"
+        },
+        {
+            "startValue": "20",
+            "radius": "20",
+            "x": "571",
+            "y": "548",
+            "color": "#de8457"
+        },
+        {
+            "startValue": "10",
+            "radius": "15",
+            "x": "473",
+            "y": "624",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "10",
+            "radius": "15",
+            "x": "608",
+            "y": "525",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "20",
+            "radius": "20",
+            "x": "613",
+            "y": "566",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "20",
+            "radius": "20",
+            "x": "510",
+            "y": "641",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "10",
+            "radius": "15",
+            "x": "624",
+            "y": "608",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "10",
+            "radius": "15",
+            "x": "546",
+            "y": "664",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "5",
+            "radius": "10",
+            "x": "640",
+            "y": "712",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "20",
+            "radius": "20",
+            "x": "585",
+            "y": "673",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "20",
+            "radius": "20",
+            "x": "621",
+            "y": "647",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "75",
+            "radius": "40",
+            "x": "568",
+            "y": "612",
+            "color": "#de8457"
+        },
+        {
+            "startValue": "10",
+            "radius": "15",
+            "x": "623",
+            "y": "688",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "10",
+            "radius": "15",
+            "x": "730",
+            "y": "359",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "75",
+            "radius": "40",
+            "x": "640",
+            "y": "388",
+            "color": "#3fa6f3"
+        },
+        {
+            "startValue": "20",
+            "radius": "20",
+            "x": "690",
+            "y": "349",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "20",
+            "radius": "20",
+            "x": "704",
+            "y": "391",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "5",
+            "radius": "10",
+            "x": "758",
+            "y": "350",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "10",
+            "radius": "15",
+            "x": "684",
+            "y": "425",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "10",
+            "radius": "15",
+            "x": "654",
+            "y": "333",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "20",
+            "radius": "20",
+            "x": "650",
+            "y": "452",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "20",
+            "radius": "20",
+            "x": "611",
+            "y": "330",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "10",
+            "radius": "15",
+            "x": "571",
+            "y": "323",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "10",
+            "radius": "15",
+            "x": "622",
+            "y": "482",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "20",
+            "radius": "20",
+            "x": "580",
+            "y": "366",
+            "color": "#3fa6f3"
+        },
+        {
+            "startValue": "20",
+            "radius": "20",
+            "x": "605",
+            "y": "442",
+            "color": "#3fa6f3"
+        },
+        {
+            "startValue": "10",
+            "radius": "15",
+            "x": "583",
+            "y": "407",
+            "color": "#3fa6f3"
+        },
+        {
+            "startValue": "10",
+            "radius": "15",
+            "x": "450",
+            "y": "310",
+            "color": "#e25f5f"
+        },
+        {
+            "startValue": "20",
+            "radius": "20",
+            "x": "490",
+            "y": "300",
+            "color": "#e25f5f"
+        },
+        {
+            "startValue": "20",
+            "radius": "20",
+            "x": "410",
+            "y": "300",
+            "color": "#e25f5f"
+        },
+        {
+            "startValue": "10",
+            "radius": "15",
+            "x": "534",
+            "y": "296",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "10",
+            "radius": "15",
+            "x": "366",
+            "y": "296",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "20",
+            "radius": "20",
+            "x": "386",
+            "y": "260",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "20",
+            "radius": "20",
+            "x": "514",
+            "y": "260",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "10",
+            "radius": "15",
+            "x": "402",
+            "y": "220",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "10",
+            "radius": "15",
+            "x": "498",
+            "y": "220",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "5",
+            "radius": "10",
+            "x": "450",
+            "y": "126",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "20",
+            "radius": "20",
+            "x": "472",
+            "y": "190",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "20",
+            "radius": "20",
+            "x": "428",
+            "y": "190",
+            "color": "#bbbbbb"
+        },
+        {
+            "startValue": "75",
+            "radius": "40",
+            "x": "450",
+            "y": "250",
+            "color": "#e25f5f"
+        },
+        {
+            "startValue": "10",
+            "radius": "15",
+            "x": "450",
+            "y": "156",
+            "color": "#bbbbbb"
+        }
+    ]
+}
