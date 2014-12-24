@@ -1,5 +1,11 @@
 InterPlanetGame: Map Standard [v 0.2 - Proposed]
 =====
+Changes Form Last Standard
+---------------------
+
+* [Added Standard Property](https://github.com/GiantCowFilms/InterPlanetGame-Maps/blob/master/ProposedChanges/MapStandard.md#standard)
+
+
 File Type
 ----
 The maps are stored as a JSON file.
@@ -15,6 +21,12 @@ Required Elements
 
 Element Details
 =========
+<h4>Name:</h4>
+
+Type | Values
+------|-------
+| String| Any
+
 <h4>Standard:</h4>
 
 Type | Values
@@ -26,11 +38,6 @@ Type | Values
 "standard": "0.2",
 ```
 
-<h4>Name:</h4>
-
-Type | Values
-------|-------
-| String| Any
 
 <h4>Size:</h4>
 Type | Values
