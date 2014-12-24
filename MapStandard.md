@@ -1,5 +1,6 @@
 InterPlanetGame: Map Standard [v 0.1]
 =====
+<sup>[*](https://github.com/GiantCowFilms/InterPlanetGame-Maps/blob/master/MapStandard.md#all-changes-need-to-go-into-the-new-standard-proposalhttpsgithubcomgiantcowfilmsinterplanetgame-mapsblobmasterproposedchangesmapstandardmd)</sup>
 File Type
 ----
 The maps are stored as a JSON file.
@@ -169,4 +170,4 @@ Example Map
 	]
 }
 ```
-
+<h6><sup>All changes need to go into the [new standard proposal](https://github.com/GiantCowFilms/InterPlanetGame-Maps/blob/master/ProposedChanges/MapStandard.md)]</sup></h6>
