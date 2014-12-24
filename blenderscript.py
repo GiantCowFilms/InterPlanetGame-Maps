@@ -17,9 +17,9 @@ acceptedColors = {
     'Blue': '#3fa6f3',
     'Red': '#e25f5f',
     'Magenta': '#ef6ab8',
-    'Orange': '#de8457',
-    'Purple': '#af6cd1',
-    'Neutral Grey': '#bbbbbb'
+	'Orange': '#de8457',
+	'Purple': '#af6cd1',
+	'Neutral Grey': '#bbbbbb'
 }
 acceptedSizes = [10, 15, 20, 40, 50, 75, 100, 125, 150, 175, 200]
 acceptedStartValues = [5, 10, 15, 20, 25, 30, 35, 45, 50, 60, 70, 75, 80, 90, 100, 125]
@@ -43,7 +43,7 @@ for object in bpy.context.selected_objects:
        
         # round all numbers to integers
         color = object.active_material.name
-        radius = round(object.scale.x)
+        radius = round(round(object.dimensions.x)/2)
         x = round(object.location.x)
         y = height - round(object.location.y)
        

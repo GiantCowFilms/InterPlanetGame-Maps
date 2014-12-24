@@ -1,6 +1,11 @@
-InterPlanetGame: Map Standard [v 0.1]
+InterPlanetGame: Map Standard [v 0.2 - Proposed]
 =====
-<sup>[Note](https://github.com/GiantCowFilms/InterPlanetGame-Maps/blob/master/MapStandard.md#all-changes-need-to-go-into-the-new-standard-proposalhttpsgithubcomgiantcowfilmsinterplanetgame-mapsblobmasterproposedchangesmapstandardmd)</sup>
+Changes Form Last Standard
+---------------------
+
+* [Added Standard Property](https://github.com/GiantCowFilms/InterPlanetGame-Maps/blob/master/ProposedChanges/MapStandard.md#standard)
+
+
 File Type
 ----
 The maps are stored as a JSON file.
@@ -10,6 +15,7 @@ The maps are stored as a JSON file.
 Required Elements
 ---
 * Name
+* Standard
 * Size
 * Planets Array, and at least one element in it
 
@@ -20,6 +26,16 @@ Element Details
 Type | Values
 ------|-------
 | String| Any
+
+<h4>Standard:</h4>
+
+Type | Values
+------|-------
+| String| Version of the standard in use without the '_v_'
+<b>Example:</b>
+```JSON
+"standard": "0.2",
+```
 
 
 <h4>Size:</h4>
@@ -170,4 +186,4 @@ Example Map
 	]
 }
 ```
-<h6><sup>All changes need to go into the [new standard proposal](https://github.com/GiantCowFilms/InterPlanetGame-Maps/blob/master/ProposedChanges/MapStandard.md)]</sup></h6>
+
