@@ -31,8 +31,7 @@ Type | Values
 
 Type | Values
 ------|-------
-| String| Version number without the 'v'
-
+| String| Version of the standard in use without the '_v_'
 <b>Example:</b>
 ```JSON
 "standard": "0.2",
