@@ -85,7 +85,7 @@ Green | #8ed16c | 1
 Blue | #3fa6f3 | 2
 Red | #e25f5f | 3
 Magenta | #ef6ab8 | 4
-Orange | #de8457 | 5
+Orange | #eb8932 | 5
 Purple | #af6cd1 | 6
 Neutral Grey | #bbbbbb | 0
 
