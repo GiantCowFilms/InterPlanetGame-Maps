@@ -1,4 +1,4 @@
-InterPlanetGame: Map Standard [v 0.2 - Proposed]
+InterPlanetGame: Map Standard [v 0.3 - Proposed]
 =====
 Changes Form Last Standard
 ---------------------
