@@ -147,6 +147,7 @@ Example Map
 		"x": "400",
 		"y": "400"
 	},
+	"standard": "0.2",
 	"planets": [
 		{
 			"radius":"50",
