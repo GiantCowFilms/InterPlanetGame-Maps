@@ -3,8 +3,10 @@ InterPlanetGame: Map Standard [v 0.2 - Proposed]
 Changes Form Last Standard
 ---------------------
 
-* [Added Standard Property](https://github.com/GiantCowFilms/InterPlanetGame-Maps/blob/master/ProposedChanges/MapStandard.md#standard)
-* Changed colors abit (still changing)
+* Removed need for colors completly
+* This standard is being set up to work with the final version - won't work with prototype
+* Added (possession property)[https://github.com/GiantCowFilms/InterPlanetGame-Maps/blob/master/ProposedChanges/MapStandard%20v0.3.md#possession]
+* (Added multiplier)[https://github.com/GiantCowFilms/InterPlanetGame-Maps/blob/master/ProposedChanges/MapStandard%20v0.3.md#multiplier]
 
 File Type
 ----
@@ -21,13 +23,13 @@ Required Elements
 
 Element Details
 =========
-<h4>Name:</h4>
+<h3>Name:</h3>
 
 Type | Values
 ------|-------
 | String| Any
 
-<h4>Standard:</h4>
+<h3>Standard:</h3>
 
 Type | Values
 ------|-------
@@ -38,7 +40,7 @@ Type | Values
 ```
 
 
-<h4>Size:</h4>
+<h3>Size:</h3>
 Type | Values
 ------|-------
 | Object| X and Y dimensions
@@ -49,7 +51,7 @@ Type | Values
   "y": "0"
 },
 ```
-<h4>Planets (Array)</h4>
+<h3>Planets (Array)</h3>
 Type | Values
 ------|-------
 | Array| Planet Objects
@@ -58,28 +60,86 @@ Type | Values
 "planets": [
 ],
 ```
-<h4>Planet (Object)</h4>
+<h3>Planet (Object)</h3>
 Type | Values
 ------|-------
 | Object| X and Y cords, Color, Radius, Start Value
 <b>Example</b>
 ```JSON
 {
-		"radius": "10",
-		"color": "#8ed16c",
-		"x": "20",
-		"y": "20",
-		"startValue": "10"
+        "radius": "75",
+        "x": "200",
+        "y": "200",
+        "possession": [
+        "0",
+        "0",
+        "0"
+    ],
+    "multiplier": "2"
 },
 ```
+
 <b>JSON Syntax Notes</b>
 
 The elemsnts must by in that order in the planet object, the numbers have to be strings (surrounded by double quotes). The cordinates are distance from the upper right hand corner.
 
+<b>elements</b>
+
+<h4>Radius</h4>
+Type | Values
+------|-------
+string(int) | radius of planet
+
+<h4>x & y</h4>
+Type | Values
+------|-------
+string(int) | cords 
+
+specifiy distance from upper left hand corner of the map.
+
+<h4>Start Value</h4>
+Type | Values
+------|-------
+string(int) | Starting Value
+
+value with witch the planet starts
+
+<h4>Possession</h4>
+Type | Values
+------|-------
+array | Player number that owns planet with that many players
+
+<b>Example</b>
+
+This planet is owned by player 1 in a 2 player game. It starts the values at 2 players and counts up.
+
+Players | Owner
+--------|------
+1    | 1 of 2
+3    | 3 of 3
+4    | 4 of 4
+
+```JSON
+"possession": [
+        "1",
+        "3",
+        "4"	
+]
+```
+<h4>Multiplier</h4>
+Type | Values
+------|-------
+string(int) | Multipler
+
+<b>Optional Porperty - Not required</b>
+
+The growth rate of the planet is multiplied by this number 
+
+
 Color Palette:
 -------------
 
-Name | Hex |Order
+Name | Hex | Player
 -----| --- |-----
 Green | #8ed16c | 1
 Blue | #3fa6f3 | 2
@@ -89,7 +149,10 @@ Orange | #eb8932 | 5
 Purple | #af6cd1 | 6
 Neutral Grey | #bbbbbb | 0
 
-<h4>Palette Rule(s)</h4>
+<h4>Palette Aplication<h4/>
+The first player is always green, the secound is Blue, so on and so forth. 
+
+<h4>Palette Rule(s)</h4> 
 In a map, use the colors in order. There should never be Magenta in a 3 player map for example. Neutral grey planets don't increaese in value until they are taken over. They are "neutral" and aren't owned by a player in the start of the game.
 
 
@@ -98,11 +161,12 @@ Guide Lines:
 * The planets must alwasy fit inside the map boundries
 * The Quantity of troops for the start values should be equal
 * The combined radiuss of the planets should be equal
+* Use mutlipiers very spareingly
 
-<h4>Planet Order In Map.json File</h4>
+<h3>Planet Order In Map.json File</h3>
 Top to bottom, left to right.
 
-<h4>Accepted Start Value</h4>
+<h3>Accepted Start Value</h3>
 * 5
 * 10
 * 15
@@ -124,7 +188,7 @@ Top to bottom, left to right.
 * 125
 * Larger sizes make the value of capturing planets go down.
 
-<h4>Accepted Planet Sizes</h4>
+<h3>Accepted Planet Sizes</h3>
 * 10
 * 15
 * 20
