@@ -4,7 +4,7 @@ Changes Form Last Standard
 ---------------------
 
 * [Added Standard Property](https://github.com/GiantCowFilms/InterPlanetGame-Maps/blob/master/ProposedChanges/MapStandard.md#standard)
-
+* Changed colors
 
 File Type
 ----
@@ -85,7 +85,7 @@ Green | #8ed16c | 1
 Blue | #3fa6f3 | 2
 Red | #e25f5f | 3
 Magenta | #ef6ab8 | 4
-Orange | #de8457 | 5
+Orange | #eb8932 | 5
 Purple | #af6cd1 | 6
 Neutral Grey | #bbbbbb | 0
 
@@ -147,6 +147,7 @@ Example Map
 		"x": "400",
 		"y": "400"
 	},
+	"standard": "0.2",
 	"planets": [
 		{
 			"radius":"50",
