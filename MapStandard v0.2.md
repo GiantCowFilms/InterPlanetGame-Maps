@@ -4,7 +4,7 @@ Changes Form Last Standard
 ---------------------
 
 * [Added Standard Property](https://github.com/GiantCowFilms/InterPlanetGame-Maps/blob/master/ProposedChanges/MapStandard.md#standard)
-* Changed colors abit (still changing)
+* Changed colors
 
 File Type
 ----
