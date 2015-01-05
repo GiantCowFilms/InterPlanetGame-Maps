@@ -3,7 +3,7 @@ InterPlanetGame: Map Standard [v 0.2 - Proposed]
 Changes Form Last Standard
 ---------------------
 
-* [Added Standard Property](https://github.com/GiantCowFilms/InterPlanetGame-Maps/blob/master/ProposedChanges/MapStandard.md#standard)
+* [Added Standard Property](https://github.com/GiantCowFilms/InterPlanetGame-Maps/blob/master/MapStandard%20v0.2.md#standard)
 * Changed colors
 
 File Type
