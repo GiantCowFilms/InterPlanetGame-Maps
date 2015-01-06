@@ -36,7 +36,7 @@ Type | Values
 | String| Version of the standard in use without the '_v_'
 <b>Example:</b>
 ```JSON
-"standard": "0.2",
+"standard": "0.3",
 ```
 
 
@@ -129,10 +129,11 @@ Players | Owner
 <h4>Multiplier</h4>
 Type | Values
 ------|-------
-string(int) | Multipler
+string(float) | Multipler
 
 <b>Optional Porperty - Not required</b>
 
+Only up to one decimal place.
 The growth rate of the planet is multiplied by this number 
 
 
