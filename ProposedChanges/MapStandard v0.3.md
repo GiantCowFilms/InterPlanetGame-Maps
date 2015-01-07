@@ -5,8 +5,8 @@ Changes Form Last Standard
 
 * Removed need for colors completly
 * This standard is being set up to work with the final version - won't work with prototype
-* Added [possession property](https://github.com/GiantCowFilms/InterPlanetGame-Maps/blob/master/ProposedChanges/MapStandard%20v0.3.md#possession)
-* [Added multiplier](https://github.com/GiantCowFilms/InterPlanetGame-Maps/blob/master/ProposedChanges/MapStandard%20v0.3.md#multiplier)
+* Added [possession property](#possession)
+* [Added multiplier](#multiplier)
 
 File Type
 ----
