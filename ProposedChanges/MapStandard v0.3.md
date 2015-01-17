@@ -7,12 +7,13 @@ Changes Form Last Standard
 * This standard is being set up to work with the final version - won't work with prototype
 * Added [possession property](#possession)
 * [Added multiplier](#multiplier)
+* Changed the guidlines and rules: What should be done, and what has to be done
 
 File Type
 ----
 The maps are stored as a JSON file.
 
-<b/>No spaces<b/> in the file name 
+<b/>No spaces<b/> in the file name
 
 Required Elements
 ---
@@ -27,13 +28,14 @@ Element Details
 
 Type | Values
 ------|-------
-| String| Any
+ String| Any
 
 <h3>Standard:</h3>
 
 Type | Values
 ------|-------
-| String| Version of the standard in use without the '_v_'
+String| Version of the standard in use without the '_v_'
+
 <b>Example:</b>
 ```JSON
 "standard": "0.3",
@@ -41,9 +43,11 @@ Type | Values
 
 
 <h3>Size:</h3>
+
 Type | Values
-------|-------
-| Object| X and Y dimensions
+------|------
+Object| X and Y dimensions
+
 <b>Example</b>
 ```JSON
 "size": {
@@ -52,18 +56,20 @@ Type | Values
 },
 ```
 <h3>Planets (Array)</h3>
+
 Type | Values
 ------|-------
-| Array| Planet Objects
+ Array| Planet Objects
 <b>Example</b>
 ```JSON
 "planets": [
 ],
 ```
 <h3>Planet (Object)</h3>
+
 Type | Values
 ------|-------
-| Object| X and Y cords, Color, Radius, Start Value
+ Object| X and Y cords, Color, Radius, Start Value
 <b>Example</b>
 ```JSON
 {
@@ -86,18 +92,21 @@ The elemsnts must by in that order in the planet object, the numbers have to be 
 <b>elements</b>
 
 <h4>Radius</h4>
+
 Type | Values
 ------|-------
 string(int) | radius of planet
 
 <h4>x & y</h4>
+
 Type | Values
 ------|-------
-string(int) | cords 
+string(int) | cords
 
 specifiy distance from upper left hand corner of the map.
 
 <h4>Start Value</h4>
+
 Type | Values
 ------|-------
 string(int) | Starting Value
@@ -105,6 +114,7 @@ string(int) | Starting Value
 value with witch the planet starts
 
 <h4>Possession</h4>
+
 Type | Values
 ------|-------
 array | Player number that owns planet with that many players
@@ -123,10 +133,11 @@ Players | Owner
 "possession": [
         "1",
         "3",
-        "4"	
+        "4"
 ]
 ```
 <h4>Multiplier</h4>
+
 Type | Values
 ------|-------
 string(float) | Multipler
@@ -134,7 +145,7 @@ string(float) | Multipler
 <b>Optional Porperty - Not required</b>
 
 Only up to one decimal place.
-The growth rate of the planet is multiplied by this number 
+The growth rate of the planet is multiplied by this number
 
 
 Color Palette:
@@ -151,21 +162,24 @@ Purple | #af6cd1 | 6
 Neutral Grey | #bbbbbb | 0
 
 <h4>Palette Aplication<h4/>
-The first player is always green, the secound is Blue, so on and so forth. 
+The first player is always green, the secound is Blue, so on and so forth.
 
-<h4>Palette Rule(s)</h4> 
+<h4>Palette Rule(s)</h4>
 In a map, use the colors in order. There should never be Magenta in a 3 player map for example. Neutral grey planets don't increaese in value until they are taken over. They are "neutral" and aren't owned by a player in the start of the game.
 
+Rules:
+==============
+<sup>Maps that don't follow these are considered invalid, even if the still "work"</sup>
 
-Guide Lines:
-========================
-* The planets must alwasy fit inside the map boundries
-* The Quantity of troops for the start values should be equal
-* The combined radiuss of the planets should be equal
-* Use mutlipiers very spareingly
+1. There may be no overlaping planets
+1. The planets must alwasy fit inside the map boundries
+1. Only use from the [list of accepted start values](#TODO)
+1. Only use from the [list of accepted planet sizes](#TODO)
+1. Only use from the [list of accepted multipliers](#TODO)
 
-<h3>Planet Order In Map.json File</h3>
-Top to bottom, left to right.
+<b>Deffinition of a balenced map:</b>
+Without any actions, there should be at no time a disparity in the quantity of troos.
+_(In short, the total growth rate [Combined radii] needs to be equal, as well as the number of starting troops)_
 
 <h3>Accepted Start Value</h3>
 * 5
@@ -203,53 +217,120 @@ Top to bottom, left to right.
 * 200
 * No Bigger Planets, It's a waste of space (Pun intended).
 
+Guide Lines:
+========================
+* Use mutlipiers very spareingly
+* Putting a big planet in the middle isn't a good start
+
+Build maps that are desgined to create new and insteresting ways of playing, trying to create a picture isn't good for gameplay. Gameplay comes first, and more people will play your map if it is _fun_.
+
+[See Creating a great map](https://github.com/GiantCowFilms/InterPlanetGame-Maps/blob/master/Creating%20a%20great%20map.md)
+
+<h3>Planet Order In Map.json File</h3>
+Top to bottom, left to right.
+
 Example Map
 ===========
 ```JSON
 {
-	"name": "Example Planet Map",
-	"size": {
-		"x": "400",
-		"y": "400"
-	},
-	"standard": "0.2",
-	"planets": [
-		{
-			"radius":"50",
-			"color": "#8ed16c",
-			"x": "55",
-			"y": "55",
-			"startValue": "20"
-		},
-		{
-			"radius":"50",
-			"color": "#3fa6f3",
-			"x": "345",
-			"y": "55",
-			"startValue": "20"
-		},
-		{
-			"radius":"75",
-			"color": "#bbbbbb",
-			"x": "200",
-			"y": "200",
-			"startValue": "20"
-		},
-		{
-			"radius":"50",
-			"color": "#e25f5f",
-			"x": "55",
-			"y": "345",
-			"startValue": "20"
-		},
-		{
-			"radius":"50",
-			"color": "#ef6ab8",
-			"x": "345",
-			"y": "345",
-			"startValue": "20"
-		}
-	]
+    "size": {
+        "x": "1000",
+        "y": "1000"
+    },
+    "name": "Example Map",
+    "planets": [
+        {
+            "x": "800",
+            "y": "500",
+            "startValue": "20",
+            "radius": "75",
+            "possession": [
+                "2",
+                "3",
+                "4",
+                "4",
+                "4"
+            ]
+        },
+        {
+            "y": "760",
+            "x": "650",
+            "startValue": "20",
+            "radius": "75",
+            "possession": [
+                "1",
+                "3",
+                "3",
+                "3",
+                "3"
+            ]
+        },
+        {
+            "y": "760",
+            "x": "350",
+            "startValue": "20",
+            "radius": "75",
+            "possession": [
+                "1",
+                "1",
+                "0",
+                "5",
+                "5"
+            ]
+        },
+        {
+            "y": "240",
+            "x": "650",
+            "startValue": "20",
+            "radius": "75",
+            "possession": [
+                "2",
+                "2",
+                "0",
+                "0",
+                "6"
+            ]
+        },
+        {
+            "y": "240",
+            "x": "350",
+            "startValue": "20",
+            "radius": "75",
+            "possession": [
+                "2",
+                "2",
+                "2",
+                "2",
+                "2"
+            ]
+        },
+        {
+            "y": "500",
+            "x": "200",
+            "startValue": "20",
+            "radius": "75",
+            "possession": [
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ]
+        },
+        {
+            "y": "500",
+            "x": "500",
+            "startValue": "50",
+            "radius": "100",
+            "possession": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+            ],
+            "multiplier": "2"
+        }
+    ]
 }
 ```
-
