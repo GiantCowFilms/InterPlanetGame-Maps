@@ -122,13 +122,13 @@ array | Player number that owns planet with that many players
 
 <b>Example</b>
 
-This planet is owned by player 1 in a 2 player game. It starts the values at 2 players and counts up.
+This planet (see example code) is owned by player 1 in a 2 player game. It starts the values at 2 players and counts up.
 
 Players | Owner
 --------|------
-1    | 1 of 2
-3    | 3 of 3
-4    | 4 of 4
+1    | Player 1 of 2 players
+3    | Player 3 of 3 players
+4    | Player 4 of 4 players
 
 ```JSON
 "possession": [
