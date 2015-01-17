@@ -76,11 +76,12 @@ Type | Values
         "radius": "75",
         "x": "200",
         "y": "200",
+        "startValue": "50",
         "possession": [
-        "0",
-        "0",
-        "0"
-    ],
+          "0",
+          "0",
+          "0"
+        ],
     "multiplier": "2"
 },
 ```
