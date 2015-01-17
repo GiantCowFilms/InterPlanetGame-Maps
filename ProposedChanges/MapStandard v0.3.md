@@ -1,6 +1,12 @@
 InterPlanetGame: Map Standard [v 0.3 - Proposed]
 =====
-Changes Form Last Standard
+Abstract
+--------
+
+This document explains the technical specifications for a InterPlanetGame map. It contains specifications, rules and guidlines as well as an example map. Even if you use a tool, read this, since the tool may be hard to use without this knowladge.
+
+
+Changes From Last Standard
 ---------------------
 
 * Removed need for colors completly
@@ -122,7 +128,7 @@ array | Player number that owns planet with that many players
 
 <b>Example</b>
 
-This planet (see example code) is owned by player 1 in a 2 player game. It starts the values at 2 players and counts up.
+This planet (see example code) is owned by player 1 in a 2 player game. It starts the values at 2 players and counts up. Player 0 is a neutral planet.
 
 Players | Owner
 --------|------
