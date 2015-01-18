@@ -22,12 +22,12 @@ To build a unique map, there are 2 approaches:
 1. Build a map to avoid the effectiveness of a common strategy
 2. Build a map to favor a certain set of actions
 
-Example(s) of __#1__
+Examples of __#1__
 
 1. In 3+ player maps, a common strategy is to wait for ther other players to fight and weaken each other before attacking. This works in maps that are short of nuetral planets, since sitting and waiting while opponents gather major growth will result in falling behind, even if they do become weakened thorough conflict.
 
 1. Another strategy was to attack the player when they are week from growth into neutral planets. There are 2 way to avoid this. One is to put a "divide" between the players, so that if a player directly attacks the other when they are expanding to new planets, by the time they get there, the other player will have generated enought troops to handel an attack. The second solution is to make some of the neutral planets very weak, so they return the troops lost to gain them, quickly.
 
-
+Examples of __#2__
 
 This is still a WIP.

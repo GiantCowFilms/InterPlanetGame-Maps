@@ -30,6 +30,7 @@ width = round(size.dimensions.x)
 height = round(size.dimensions.y)
 
 map = {
+    'standard':'0.2'
     'name': bpy.data.objects['name'].data.body,
     'size': {
         'x': str(width),
