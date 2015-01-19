@@ -9,11 +9,7 @@ This document explains the technical specifications for a InterPlanetGame map. I
 Changes From Last Standard
 ---------------------
 
-* Removed need for colors completly
-* This standard is being set up to work with the final version - won't work with prototype
-* Added [possession property](#possession)
-* [Added multiplier](#multiplier)
-* Changed the guidlines and rules: What should be done, and what has to be done
+###[No changes yet]
 
 File Type
 ----
@@ -166,6 +162,9 @@ Red | #e25f5f | 3
 Magenta | #ef6ab8 | 4
 Orange | #eb8932 | 5
 Purple | #af6cd1 | 6
+Teal | #66e3cd | 7
+Deep Blue | #4f47c0 | 8
+Yellow | #efdf27 | 9
 Neutral Grey | #bbbbbb | 0
 
 <h4>Palette Aplication<h4/>
