@@ -1,0 +1,24 @@
+{
+  "name":"Easy Win For Green",
+  "size": {
+    "x":500,
+    "y":500,
+  },
+  "standard": "0.2",
+  "planets": [
+    {
+        "radius": "50",
+        "color": "#8ed16c",
+        "x": "70",
+        "y": "250",
+        "startValue": "10"
+    },
+        {
+        "radius": "10",
+        "color": "#3fa6f3",
+        "x": "300",
+        "y": "250",
+        "startValue": "10"
+    },
+  ]
+}
