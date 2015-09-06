@@ -3,7 +3,7 @@ InterPlanetGame: Map Standard [v 0.2 - Proposed]
 Supports Protoype, but won't work with new verison, the first version of the new version is 0.3
 ------
 
-Changes Form Last Standard
+Changes From Last Standard
 ---------------------
 
 * [Added Standard Property](https://github.com/GiantCowFilms/InterPlanetGame-Maps/blob/master/MapStandard%20v0.2.md#standard)
