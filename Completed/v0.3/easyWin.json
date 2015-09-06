@@ -5,7 +5,7 @@
     "y":500,
   },
   "standard": "0.2",
-  "planets" [
+  "planets": [
     {
         "radius": "50",
         "color": "#8ed16c",
