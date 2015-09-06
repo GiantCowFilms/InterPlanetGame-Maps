@@ -13,7 +13,7 @@ File Type
 ----
 The maps are stored as a JSON file.
 
-<b/>No spaces<b/> in the file name 
+<b>No spaces</b> in the file name 
 
 Required Elements
 ---
